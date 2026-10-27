@@ -1,44 +1,44 @@
 <p align="center">
-  <img src="./assets/hello-lab.gif" alt="Hi, I'm kacces-scar. A little lab for big ideas. 一个会挥手、眨眼的小机器人，周围有旋转的轨道。" width="100%" />
+  <img src="./assets/hello-lab.gif" alt="Hi, I'm kacces-scar. A little lab for big ideas. A friendly robot waves and blinks as dots orbit around it." width="100%" />
 </p>
 
 <p align="center">
-  <b>保持好奇，把想法变成可以看见的东西。</b><br />
-  <sub>Stay curious. Build something. Make it better.</sub>
+  <b>Stay curious. Turn ideas into things you can explore.</b><br />
+  <sub>Build something. Make it better. Share the journey.</sub>
 </p>
 
 <p align="center">
-  <a href="#-关于这里">关于这里</a> ·
-  <a href="#-项目展台">项目展台</a> ·
-  <a href="https://github.com/kacces-scar?tab=repositories">全部仓库 ↗</a>
+  <a href="#-about-this-lab">About this lab</a> ·
+  <a href="#-project-showcase">Project showcase</a> ·
+  <a href="https://github.com/kacces-scar?tab=repositories">All repositories ↗</a>
 </p>
 
 ---
 
-### 🪐 关于这里
+### 🪐 About this lab
 
-你好，我是 **kacces-scar**，欢迎来到我的小小实验室。
+Hi, I'm **kacces-scar**. Welcome to my little lab.
 
-这里记录工程探索、动手实验，以及从一个想法到下一次迭代的过程。比起只展示最后的结果，我也想留下「它是怎么一步步变成这样的」。
+This is where I keep engineering explorations, hands-on experiments, and the steps between an idea and its next iteration. I like sharing how things evolve, along with the final results.
 
-🛠️ **动手做** — 让想法有一个可以研究和改进的版本。  
-🔬 **多试一次** — 记录方案、比较差异、继续迭代。  
-🌱 **保持好奇** — 在实践中学习，也在这里分享过程。
+🛠️ **Build it** — Give an idea a form you can explore and improve.  
+🔬 **Try again** — Document the options, compare the results, and iterate.  
+🌱 **Stay curious** — Learn by doing and share the process.
 
-### 🚀 项目展台
+### 🚀 Project showcase
 
-| 项目 | 里面有什么 |
+| Project | What's inside |
 | :--- | :--- |
-| **[📡 CST Iteration Archive](https://github.com/kacces-scar/cst-iteration-archive)** | 天线设计的迭代档案：CST 工程文件、文件清单，以及从早期方案到最终候选方案的设计演进记录。 |
+| **[📡 CST Iteration Archive](https://github.com/kacces-scar/cst-iteration-archive)** | An antenna design archive with CST project files, a file manifest, and the design journey from early concepts to final candidates. |
 
 <details>
-<summary>🔎 打开实验室笔记</summary>
+<summary>🔎 Open the lab notebook</summary>
 
 <br />
 
-这份 CST 档案保留了多个设计阶段，便于对照几何结构、端口定义、求解器设置及仿真结果。具体内容与使用说明见项目 README。
+The CST archive preserves multiple design stages for comparing geometry, port definitions, solver settings, and simulation results. See the project README for details and usage notes.
 
-**我的小原则：先做出来，再把每一次改进留下来。**
+**My guiding principle: build it, improve it, and keep a record of what changed.**
 
 </details>
 
@@ -46,5 +46,5 @@
 
 <p align="center">
   <b>Thanks for stopping by! 👋</b><br />
-  <sub>这个实验室还在生长中，下一个想法见。</sub>
+  <sub>This little lab is still growing. See you at the next experiment.</sub>
 </p>
